@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Operators._30Days
+namespace Day2.Operators
 {
+    //https://www.hackerrank.com/challenges/30-operators
     class Program
     {
         static void Main(string[] args)

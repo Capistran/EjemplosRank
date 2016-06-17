@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataTypes
+namespace Day1.DataTypes
 {
+    //https://www.hackerrank.com/challenges/30-data-types
     class Program
     {
         static void Main(string[] args)

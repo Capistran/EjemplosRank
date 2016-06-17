@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day8DictionaryMaps
+namespace Day8.DictionaryMaps
 {
+    //https://www.hackerrank.com/challenges/30-dictionaries-and-maps
     class Program
     {
         static void Main(string[] args)

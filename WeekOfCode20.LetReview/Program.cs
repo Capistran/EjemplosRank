@@ -8,6 +8,7 @@ namespace Day6.LetReview
 {
     class Program
     {
+        //https://www.hackerrank.com/challenges/30-review-loop
         static void Main(string[] args)
         {
             int test = Convert.ToInt32(Console.ReadLine());

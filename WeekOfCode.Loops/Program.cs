@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Day5.Loops
 {
+    //https://www.hackerrank.com/challenges/30-loops
     class Program
     {
         static void Main(string[] args)

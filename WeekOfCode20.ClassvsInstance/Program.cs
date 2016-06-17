@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Day4.ClassvsInstance
 {
+    //https://www.hackerrank.com/challenges/30-class-vs-instance
     class Program
     {
         static void Main(string[] args)

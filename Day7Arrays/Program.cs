@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Day7Arrays
 {
+    //https://www.hackerrank.com/challenges/30-arrays
     class Program
     {
         static void Main(string[] args)

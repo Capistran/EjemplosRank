@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BinaryNumbers
+namespace Day10.BinaryNumbers
 {
+    //https://www.hackerrank.com/challenges/30-binary-numbers
     class Program
     {
         static void Main(string[] args)

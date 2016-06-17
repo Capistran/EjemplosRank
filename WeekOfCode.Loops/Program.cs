@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WeekOfCode20.Loops
+namespace Day5.Loops
 {
     class Program
     {

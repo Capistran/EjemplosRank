@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WeekOfCode20.ClassvsInstance
+namespace Day4.ClassvsInstance
 {
     class Program
     {

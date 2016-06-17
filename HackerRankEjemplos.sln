@@ -31,11 +31,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators.30Days", "Operato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekOfCode20.DivisibleSumPairs", "WeekOfCode20.DivisibleSumPairs\WeekOfCode20.DivisibleSumPairs.csproj", "{C86395EE-F011-48BA-9D7D-E355E762EC6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekOfCode20.ClassvsInstance", "WeekOfCode20.ClassvsInstance\WeekOfCode20.ClassvsInstance.csproj", "{C4B018DB-1772-4C30-8336-0B13B41EEEAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4.ClassvsInstance", "WeekOfCode20.ClassvsInstance\Day4.ClassvsInstance.csproj", "{C4B018DB-1772-4C30-8336-0B13B41EEEAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekOfCode20.Loops", "WeekOfCode.Loops\WeekOfCode20.Loops.csproj", "{8124E202-E8DD-485D-B0F8-9E4460A37BF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5.Loops", "WeekOfCode.Loops\Day5.Loops.csproj", "{8124E202-E8DD-485D-B0F8-9E4460A37BF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekOfCode20.LetReview", "WeekOfCode20.LetReview\WeekOfCode20.LetReview.csproj", "{C0F2A239-EE1A-47E4-A144-3E5F711035C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6.LetReview", "WeekOfCode20.LetReview\Day6.LetReview.csproj", "{C0F2A239-EE1A-47E4-A144-3E5F711035C8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExpresionRegular", "ExpresionRegular", "{5A1E61B7-3564-446C-9C00-9ABBB9B35F7F}"
 EndProject
